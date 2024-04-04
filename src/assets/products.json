@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "Camiseta",
+    "price": 19.99,
+    "description": "Camiseta de algodón suave en varios colores.",
+    "category": "Ropa"
+  },
+  {
+    "id": 2,
+    "name": "Pantalones vaqueros",
+    "price": 39.99,
+    "description": "Pantalones vaqueros de corte recto para hombre.",
+    "category": "Ropa"
+  },
+  {
+    "id": 3,
+    "name": "Zapatillas deportivas",
+    "price": 49.99,
+    "description": "Zapatillas deportivas ligeras y cómodas.",
+    "category": "Calzado"
+  },
+  {
+    "id": 4,
+    "name": "Portátil",
+    "price": 799.99,
+    "description": "Portátil de última generación con procesador potente y pantalla de alta resolución.",
+    "category": "Electrónica"
+  },
+  {
+    "id": 5,
+    "name": "Silla de oficina",
+    "price": 129.99,
+    "description": "Silla ergonómica con soporte lumbar ajustable.",
+    "category": "Muebles"
+  }
+]
+
+
+

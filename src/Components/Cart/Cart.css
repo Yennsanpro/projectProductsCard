@@ -1,0 +1,18 @@
+.cart{
+    width: 25vw;
+    padding: 8px;
+
+}
+.cartItem{
+    display: flex;
+    /* min-width: 500px; */
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid white;
+}
+.cartItem > div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+} 
