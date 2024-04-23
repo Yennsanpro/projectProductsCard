@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import './App.css'
 import products from './assets/products.json'
-import ProductList from './components/ProductList/ProductList'
-import Cart from './components/Cart/Cart'
+import ProductList from './Components/ProductList/ProductList'
+import Cart from './Components/Cart/Cart'
 
 function App() {
   const[cart, setCart] = useState([])

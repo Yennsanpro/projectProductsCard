@@ -1,4 +1,4 @@
-*/import './Cart.css'
+import './Cart.css'
 import PropTypes from 'prop-types'
 
 function Cart({cart, removeProduct, addProduct,deleteProduct, onClearCart }) {
